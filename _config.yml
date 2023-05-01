@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Dog Single Image Classifier
+description: 'Available breeds: German Shepherd, Golden Retriever, Border Collie, Rottweiler'
+
+author:
+  name: SL
